@@ -13,4 +13,4 @@ A few visualizations I created using ggplot in R for Data.World's Makeover Monda
 **5/3/2021 Compensation Gap**
 
 
-![comp gap](https://github.com/JonFain90/MakeoverMondayViz/blob/master/5.3.2021/viz/5.s mm viz.jpg)
+![comp gap](https://github.com/JonFain90/MakeoverMondayViz/blob/master/5.3.2021/viz/5.smm viz.jpg)
